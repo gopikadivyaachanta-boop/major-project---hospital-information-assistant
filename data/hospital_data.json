@@ -1,0 +1,112 @@
+{
+  "hospital_info": {
+    "name": "MetroCare General Hospital",
+    "tagline": "Compassionate Care, Advanced Medicine",
+    "overview": "MetroCare General Hospital is a premier multispecialty healthcare institution committed to providing comprehensive, high-quality, patient-centered medical services with state-of-the-art facilities.",
+    "address": "123 Healthcare Boulevard, Medical District, Cityville, State 560001",
+    "phone": "+1 (800) 555-0199",
+    "emergency_helpline": "+1 (800) 555-9111",
+    "email": "contact@metrocarehospital.org",
+    "website": "https://www.metrocarehospital.org",
+    "location_landmarks": "Opposite Central City Park, 5 minutes from Metro Central Station."
+  },
+  "visiting_hours": {
+    "general_wards": "10:00 AM - 12:00 PM and 4:00 PM - 7:00 PM (Daily)",
+    "icu_and_critical_care": "11:00 AM - 12:00 PM and 5:00 PM - 6:00 PM (Strictly one visitor at a time)",
+    "visiting_rules": [
+      "Visitors must obtain a Visitor Pass from the main reception.",
+      "Children under 12 years are not permitted in ICU/IPD wards for safety reasons.",
+      "Sanitizing hands before and after entering patient rooms is mandatory."
+    ]
+  },
+  "emergency_services": {
+    "availability": "24 Hours / 7 Days a Week",
+    "location": "Ground Floor, Gate 2 (Emergency Response Wing)",
+    "facilities": "Level-1 Trauma Center, 24/7 Cardiac Cath Lab, Dedicated Stroke Unit, Advanced ICU Ambulances",
+    "guidance": "For life-threatening emergencies, proceed directly to Gate 2 or call our 24/7 Emergency Line at +1 (800) 555-9111."
+  },
+  "departments": [
+    {
+      "id": "cardiology",
+      "name": "Cardiology & Vascular Sciences",
+      "head_of_department": "Dr. Sarah Jenkins, MD, FACC",
+      "description": "Comprehensive cardiac care including non-invasive cardiology, interventional cardiology, and cardiac rehabilitation.",
+      "op_timings": "Monday - Saturday: 9:00 AM - 4:00 PM",
+      "location": "Block A, 2nd Floor",
+      "doctors": [
+        {"name": "Dr. Sarah Jenkins", "specialty": "Interventional Cardiology", "experience": "18 years"},
+        {"name": "Dr. Robert Chen", "specialty": "Electrophysiology", "experience": "12 years"}
+      ],
+      "services": ["ECG & Echocardiogram", "Coronary Angiography", "Pacemaker Implantation", "Cardiac Rehab"]
+    },
+    {
+      "id": "neurology",
+      "name": "Neurology & Neurosurgery",
+      "head_of_department": "Dr. Michael Vance, DM (Neurology)",
+      "description": "Advanced care for disorders of the brain, spinal cord, peripheral nerves, and stroke management.",
+      "op_timings": "Monday - Friday: 10:00 AM - 5:00 PM",
+      "location": "Block B, 3rd Floor",
+      "doctors": [
+        {"name": "Dr. Michael Vance", "specialty": "Stroke & Cerebrovascular Care", "experience": "20 years"},
+        {"name": "Dr. Anita Desai", "specialty": "Pediatric Neurology", "experience": "10 years"}
+      ],
+      "services": ["EEG & EMG Testing", "Stroke Intervention", "Epilepsy Management", "Brain & Spine Surgery"]
+    },
+    {
+      "id": "orthopedics",
+      "name": "Orthopedics & Joint Replacement",
+      "head_of_department": "Dr. David Miller, MS (Ortho)",
+      "description": "Specialized diagnosis and treatment of bone, joint, ligament, and muscle conditions.",
+      "op_timings": "Monday - Saturday: 8:30 AM - 3:30 PM",
+      "location": "Block A, Ground Floor",
+      "doctors": [
+        {"name": "Dr. David Miller", "specialty": "Joint Replacement Surgery", "experience": "15 years"},
+        {"name": "Dr. Elena Rostova", "specialty": "Sports Medicine & Arthroscopy", "experience": "9 years"}
+      ],
+      "services": ["Total Knee/Hip Replacement", "Arthroscopic Surgery", "Fracture Care & Trauma", "Physiotherapy"]
+    },
+    {
+      "id": "pediatrics",
+      "name": "Pediatrics & Neonatology",
+      "head_of_department": "Dr. Emily Taylor, MD (Pediatrics)",
+      "description": "Dedicated healthcare for infants, children, and adolescents, including a Level-III NICU.",
+      "op_timings": "Monday - Saturday: 9:00 AM - 5:00 PM",
+      "location": "Block C, 1st Floor",
+      "doctors": [
+        {"name": "Dr. Emily Taylor", "specialty": "General Pediatrics", "experience": "14 years"},
+        {"name": "Dr. Marcus Thorne", "specialty": "Neonatology", "experience": "11 years"}
+      ],
+      "services": ["Vaccination & Growth Tracking", "Neonatal Intensive Care (NICU)", "Pediatric Allergy Care"]
+    },
+    {
+      "id": "general_medicine",
+      "name": "General Medicine & Diabetology",
+      "head_of_department": "Dr. Rajesh Kumar, MD",
+      "description": "Primary healthcare, management of chronic illnesses like diabetes and hypertension, and preventive health checks.",
+      "op_timings": "Monday - Sunday: 8:00 AM - 8:00 PM",
+      "location": "Block A, 1st Floor",
+      "doctors": [
+        {"name": "Dr. Rajesh Kumar", "specialty": "Internal Medicine & Diabetes", "experience": "16 years"},
+        {"name": "Dr. Lisa Wong", "specialty": "Preventive Healthcare", "experience": "8 years"}
+      ],
+      "services": ["Comprehensive Executive Health Checks", "Diabetes Management", "Hypertension & Metabolic Care"]
+    }
+  ],
+  "facilities": [
+    {"name": "24/7 Pharmacy", "location": "Main Lobby, Ground Floor", "description": "In-house pharmacy providing prescription and over-the-counter medications round the clock."},
+    {"name": "Advanced Radiology & Diagnostic Center", "location": "Block B, Basement 1", "description": "3T MRI, 128-Slice CT Scan, Digital X-Ray, Mammography, and Ultrasound."},
+    {"name": "NABL Accredited Clinical Laboratory", "location": "Block B, Ground Floor", "description": "Automated blood, urine, pathology, and microbiology testing with quick online reporting."},
+    {"name": "Inpatient Wards & Deluxe Private Rooms", "location": "Blocks A & B, Floors 4 to 6", "description": "Includes Economy Wards, Semi-Private Rooms, Single Deluxe Rooms, and Executive Suites."},
+    {"name": "Cafeteria & Dietary Services", "location": "Block C, Ground Floor", "description": "Hygienic vegetarian and non-vegetarian food options curated by clinical dietitians."}
+  ],
+  "admission_guidelines": {
+    "planned_admission": "Visit the Admission Desk (Main Lobby) 2 hours prior to scheduled time with doctor's admission slip, photo ID, and insurance card.",
+    "emergency_admission": "Handled directly through the Emergency Department triage desk with immediate medical stabilization prioritized.",
+    "documents_required": ["Doctor's Admission Recommendation Slip", "Government Photo ID (Passport/Driver's License/National ID)", "Health Insurance Card / TPA Card", "Previous Medical Records & Current Medications"]
+  },
+  "insurance_and_billing": {
+    "cashless_insurance": "Empaneled with over 30 major insurance providers and TPAs. Contact the Insurance Desk at Block A, Ground Floor.",
+    "payment_modes": "Credit/Debit Cards, Net Banking, UPI, and Cash.",
+    "billing_desk_timings": "24/7 for Emergency and Inpatient Discharges; 8:00 AM - 8:00 PM for Outpatient Billing."
+  }
+}

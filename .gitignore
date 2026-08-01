@@ -1,0 +1,26 @@
+# hospital-information-assistant/.gitignore
+
+# Python Bytecode & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+
+# Vector Indexes & Uploads
+knowledge_base/faiss_index/
+uploads/*
+!uploads/.gitkeep
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+
+# Streamlit Cache
+.streamlit/

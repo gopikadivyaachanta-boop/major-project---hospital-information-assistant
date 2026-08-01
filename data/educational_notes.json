@@ -1,0 +1,59 @@
+[
+  {
+    "id": "edu_001",
+    "title": "Understanding Blood Pressure",
+    "category": "Cardiovascular Health",
+    "simple_explanation": "Blood pressure is the measure of the force that your heart uses to pump blood around your body through your blood vessels. It is recorded using two numbers: Systolic (the top number, representing pressure during a heartbeat) and Diastolic (the bottom number, representing pressure when the heart rests between beats).",
+    "important_points": [
+      "Blood pressure varies naturally throughout the day based on activity, stress, and caffeine intake.",
+      "A single high reading does not automatically mean you have hypertension.",
+      "Proper cuff size and resting quietly for 5 minutes before measurement ensures accurate readings."
+    ],
+    "common_medical_terms": [
+      {"term": "Systolic", "definition": "Pressure in arteries when the heart contracts."},
+      {"term": "Diastolic", "definition": "Pressure in arteries when the heart rests between beats."},
+      {"term": "Hypertension", "definition": "Persistently elevated blood pressure above typical baseline ranges."}
+    ],
+    "general_health_awareness": "Regular physical activity, reducing sodium intake, managing stress, and maintaining a balanced diet help support healthy blood pressure levels.",
+    "when_to_consult": "Consult a doctor if your blood pressure is consistently elevated, or immediately if severe high readings are accompanied by chest pain, severe headache, or shortness of breath.",
+    "disclaimer": "This information is educational only. Blood pressure ranges must be evaluated by a healthcare professional in light of your individual health history."
+  },
+  {
+    "id": "edu_002",
+    "title": "Complete Blood Count (CBC) Basics",
+    "category": "Laboratory & Diagnostic Tests",
+    "simple_explanation": "A Complete Blood Count (CBC) is a common blood test that measures different components of your blood, including red blood cells, white blood cells, hemoglobin, hematocrit, and platelets. It provides a general snapshot of your overall health.",
+    "important_points": [
+      "Hemoglobin carries oxygen from the lungs to the rest of the body.",
+      "White Blood Cells (WBCs) are part of the immune system that helps defend against infection.",
+      "Platelets help the blood clot to prevent excessive bleeding when injured."
+    ],
+    "common_medical_terms": [
+      {"term": "Hemoglobin (Hb)", "definition": "An iron-rich protein in red blood cells that carries oxygen."},
+      {"term": "WBC Count", "definition": "The number of infection-fighting white blood cells in a sample."},
+      {"term": "Platelets", "definition": "Cell fragments that play a critical role in blood clotting."}
+    ],
+    "general_health_awareness": "CBC tests are widely used during routine checkups or to investigate symptoms like fatigue, fever, or unexplained bruising.",
+    "when_to_consult": "Always discuss lab test values with your prescribing physician. Reference ranges vary by laboratory, age, sex, and health history.",
+    "disclaimer": "Laboratory parameters require professional clinical context. Never attempt self-diagnosis based solely on raw laboratory numbers."
+  },
+  {
+    "id": "edu_003",
+    "title": "Understanding Fasting Blood Glucose",
+    "category": "Endocrinology & Diabetes",
+    "simple_explanation": "A fasting blood glucose test measures the concentration of glucose (sugar) in your blood after an overnight fast of at least 8 hours. It is used to assess how effectively your body processes sugar.",
+    "important_points": [
+      "Fasting for 8 to 12 hours (water is permitted) is required for accurate results.",
+      "Glucose is the primary source of energy for your body's cells, derived from food.",
+      "Hormones like insulin help regulate glucose levels in the bloodstream."
+    ],
+    "common_medical_terms": [
+      {"term": "Glucose", "definition": "A simple sugar that serves as the body's main energy source."},
+      {"term": "Insulin", "definition": "A hormone produced by the pancreas that allows sugar to enter cells."},
+      {"term": "Hyperglycemia", "definition": "Elevated level of glucose in the blood."}
+    ],
+    "general_health_awareness": "Maintaining a balanced diet rich in whole foods, exercising regularly, and avoiding excessive refined sugars help maintain healthy blood sugar regulation.",
+    "when_to_consult": "Consult a doctor if you experience persistent symptoms such as increased thirst, frequent urination, unexplained weight loss, or fatigue.",
+    "disclaimer": "This note provides general educational information and is not a diagnostic tool for diabetes or metabolic disorders."
+  }
+]

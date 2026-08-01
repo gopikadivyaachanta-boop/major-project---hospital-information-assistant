@@ -1,0 +1,58 @@
+[
+  {
+    "id": "faq_001",
+    "category": "Appointments",
+    "question": "How can I book an outpatient (OPD) appointment?",
+    "answer": "You can book an appointment by calling our desk at +1 (800) 555-0199, visiting the hospital reception desk, or using the online appointment guidance section in this assistant.",
+    "keywords": ["book", "appointment", "opd", "consultation", "doctor appointment"]
+  },
+  {
+    "id": "faq_002",
+    "category": "Appointments",
+    "question": "What documents should I bring for my first appointment?",
+    "answer": "Please bring a valid government photo ID, your health insurance card (if applicable), any previous medical records, blood reports, and a list of current medications.",
+    "keywords": ["documents", "bring", "first visit", "requirements", "checklist"]
+  },
+  {
+    "id": "faq_003",
+    "category": "Visiting Hours",
+    "question": "What are the general visiting hours for admitted patients?",
+    "answer": "General Ward visiting hours are 10:00 AM - 12:00 PM and 4:00 PM - 7:00 PM daily. ICU visiting hours are strictly 11:00 AM - 12:00 PM and 5:00 PM - 6:00 PM (1 visitor per patient).",
+    "keywords": ["visiting hours", "visitor timing", "icu visits", "attendant timing"]
+  },
+  {
+    "id": "faq_004",
+    "category": "Emergency",
+    "question": "Where is the emergency department located and how do I contact them?",
+    "answer": "The Emergency Department is located at Ground Floor, Gate 2. You can contact our 24/7 Emergency Response Helpline directly at +1 (800) 555-9111.",
+    "keywords": ["emergency", "casualty", "helpline", "ambulance", "gate 2"]
+  },
+  {
+    "id": "faq_005",
+    "category": "Insurance & Billing",
+    "question": "Does MetroCare hospital offer cashless health insurance claims?",
+    "answer": "Yes, MetroCare is empaneled with major health insurance providers and Third-Party Administrators (TPAs). Please present your insurance card at the Insurance Desk in Block A, Ground Floor.",
+    "keywords": ["insurance", "cashless", "tpa", "mediclaim", "reimbursement"]
+  },
+  {
+    "id": "faq_006",
+    "category": "Facilities",
+    "question": "Is there an in-house pharmacy and is it open 24/7?",
+    "answer": "Yes, our central pharmacy is located in the Main Lobby on the Ground Floor and operates 24 hours a day, 7 days a week.",
+    "keywords": ["pharmacy", "medicines", "chemist", "24 hours", "drugs"]
+  },
+  {
+    "id": "faq_007",
+    "category": "Reports & Diagnostics",
+    "question": "How long does it take to receive diagnostic and lab test reports?",
+    "answer": "Routine blood and urine tests are usually ready within 4 to 6 hours. Advanced radiology scans (MRI/CT) reports are generated within 24 hours and can be picked up at the lab desk or accessed online.",
+    "keywords": ["lab reports", "test results", "mri report", "blood test time"]
+  },
+  {
+    "id": "faq_008",
+    "category": "Appointments",
+    "question": "How can I cancel or reschedule my doctor appointment?",
+    "answer": "To cancel or reschedule, please call our helpline (+1 800-555-0199) at least 2 hours prior to your scheduled time slot so we can accommodate other patients.",
+    "keywords": ["cancel", "reschedule", "change appointment", "modify time"]
+  }
+]
